@@ -30,8 +30,7 @@ I’m always open to collaborating on projects, whether it’s contributing to e
 ## Contact Me
 
 - **GitHub**: [@Ethanol-98](https://github.com/Ethanol-98)
-- **LinkedIn**: [Your LinkedIn profile](#)
-- **Email**: [Your email](#)
+- **Email**: [Your email](02quads.sandman@icloud.com)
 
 ## Contributing
 
