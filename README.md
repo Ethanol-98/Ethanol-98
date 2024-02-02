@@ -28,8 +28,8 @@ I’m always open to collaborating on projects, whether it’s contributing to e
 
 ## Contact Me
 
-- **GitHub**: [@Ethanol-98](https://github.com/Ethanol-98)
-- **Hugging Face**: [Hugging Face](https://huggingface.co/Ethanol777)
+- **GitHub**: [Profile](https://github.com/Ethanol-98)
+- **Hugging Face**: [Profile](https://huggingface.co/Ethanol777)
 
 ## Contributing
 
