@@ -18,10 +18,9 @@ Below is a list of some notable projects I’ve worked on. Feel free to check th
 
 Here are some of the technologies I work with:
 
-- Language 1 (e.g., Python, JavaScript)
-- Language 2
-- Framework 1 (e.g., React, Django)
-- Tool 1 (e.g., Docker, Git)
+- Python
+- Java
+- Swift
 
 ## Collaboration
 
@@ -30,7 +29,7 @@ I’m always open to collaborating on projects, whether it’s contributing to e
 ## Contact Me
 
 - **GitHub**: [@Ethanol-98](https://github.com/Ethanol-98)
-- **Email**: [Email](02quads.sandman@icloud.com)
+- **Hugging Face**: [Hugging Face](https://huggingface.co/Ethanol777)
 
 ## Contributing
 
