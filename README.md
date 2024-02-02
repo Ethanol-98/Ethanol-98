@@ -4,7 +4,7 @@ Hi there! I’m Ethanol-98, and this is the central hub for my personal and coll
 
 ## About Me
 
-I’m a software developer (or your actual role/profession) with a passion for creating innovative solutions and exploring new technologies. I believe in the power of open-source projects and collaboration to drive progress and innovation.
+I’m a software developer with a passion for creating innovative solutions and exploring new technologies. I believe in the power of open-source projects and collaboration to drive progress and innovation.
 
 ## Projects
 
