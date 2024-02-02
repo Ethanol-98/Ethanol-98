@@ -10,7 +10,7 @@ I’m a software developer with a passion for creating innovative solutions and 
 
 Below is a list of some notable projects I’ve worked on. Feel free to check them out:
 
-- **Project Name 1**: A brief description of what the project does. [Link to the project](#)
+- **Project Name 1**: Audio Visualizer [https://github.com/Ethanol-98/audio-frequency-visualization](#)
 - **Project Name 2**: A brief description of what the project does. [Link to the project](#)
 - **Project Name 3**: A brief description of what the project does. [Link to the project](#)
 
