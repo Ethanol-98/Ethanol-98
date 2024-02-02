@@ -11,7 +11,7 @@ I’m a software developer with a passion for creating innovative solutions and 
 Below is a list of some notable projects I’ve worked on. Feel free to check them out:
 
 - **Audio Visualiser**: Visualize all the audio! [https://github.com/Ethanol-98/audio-frequency-visualization](#)
-- **Project Name 2**: A brief description of what the project does. [Link to the project](#)
+- **Black and White images**: Turn color images black and white with upscale  [https://huggingface.co/spaces/Ethanol777/Black_and_White](#)
 - **Project Name 3**: A brief description of what the project does. [Link to the project](#)
 
 ## Technologies
